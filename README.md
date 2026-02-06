@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m a second-year Computer Science student at Binghamton University’s Watson School of Computing who enjoys building software and learning by doing. I like turning ideas into working projects and using code to solve real problems.
+
+Most of my work focuses on hands-on development, whether that is backend features, full-stack web apps, or experimenting with new tools and technologies. I am always looking to improve my fundamentals while pushing myself through projects that are practical and meaningful.
+
+I enjoy collaborating, learning from others, and contributing to projects that make an impact. Feel free to explore my projects or connect with me on my linkedin if you are looking for more connections  .
+Tech Stack
+
+Languages: Java, Python, JavaScript, TypeScript, SQL
+Frameworks & Libraries: React, Next.js, Spring Boot, OpenCV
+Tools & Platforms: Git, GitHub, Maven, Tomcat, PostgreSQL
+Concepts: Data Structures, Algorithms, REST APIs, Full-Stack Development
+
+- 🔭 I’m currently working on ...
+- FranchiseOpsCopilot (you can take a look at the repo)
+
+- 📫 How to reach me: ...
+- www.linkedin.com/in/rtsui21
